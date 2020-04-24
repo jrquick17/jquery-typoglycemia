@@ -1,0 +1,37 @@
+{
+  "name": "jquery-typoglycemia",
+  "version": "1.0.0",
+  "readme": "README.md",
+  "homepage": "https://jquery-typoglycemia.jrquick.com",
+  "scripts": {
+    "shipit": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrquick17/jquery-typoglycemia"
+  },
+  "author": {
+    "name": "Jeremy Quick",
+    "email": "me@jrquick.com",
+    "url": "https://jrquick.com"
+  },
+  "keywords": [
+    "jquery",
+    "delay-text",
+    "jquery-typoglycemia"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrquick17/jquery-typoglycemia/issues"
+  },
+  "main": "typoglycemia.js",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "peerDependencies": {
+    "jquery": "^3.5.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.0"
+  }
+}
