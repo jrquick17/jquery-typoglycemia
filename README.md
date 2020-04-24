@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/npm/dm/jquery-typoglycemia.svg)](https://www.npmjs.com/package/jquery-typoglycemia)
 [![jsdelivr](https://data.jsdelivr.com/v1/package/gh/jrquick17/jquery-typoglycemia/badge)](https://www.jsdelivr.com/package/gh/jrquick17/jquery-typoglycemia)
 
-![](example.gif)
+![](example.png)
 
 ## Index ##
 
