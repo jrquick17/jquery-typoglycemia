@@ -41,14 +41,15 @@ npm install jquery-typoglycemia --save
 
 ## Documentation ##
 
+### With Selector
 ```javascript
-$('#text').delayText();
+$('#text').typoglycemia();
 ```
 
-### Options ###
-
-* `sequential` -- Reveal text in order (Default: `false`)
-* `time` -- Total time to reveal full text (Default: `1000`)
+### With Function
+```javascript
+$.typoglycemia('text to convert');
+```
 
 ## Contributing ##
 
